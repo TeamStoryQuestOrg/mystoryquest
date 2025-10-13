@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://djhydwavyc1i8"
-path="res://.godot/imported/NO_EDIT_projectile.png-247e0d1733b36b71f589dee7cab1102a.ctex"
+uid="uid://d0i3erwhd2hdh"
+path="res://.godot/imported/NO_EDIT_throwing_enemy_attack.png-e4f550ae77b31e0b617222502bccd40a.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_projectile.png"
-dest_files=["res://.godot/imported/NO_EDIT_projectile.png-247e0d1733b36b71f589dee7cab1102a.ctex"]
+source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_attack.png"
+dest_files=["res://.godot/imported/NO_EDIT_throwing_enemy_attack.png-e4f550ae77b31e0b617222502bccd40a.ctex"]
 
 [params]
 

@@ -1,9 +1,9 @@
 [gd_resource type="SpriteFrames" load_steps=25 format=3 uid="uid://bedpotso7pv3p"]
 
-[ext_resource type="Texture2D" uid="uid://d0i3erwhd2hdh" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_attack.png" id="1_hbyn4"]
-[ext_resource type="Texture2D" uid="uid://cuk76wl2iwdi3" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_defeated.png" id="2_vprr2"]
-[ext_resource type="Texture2D" uid="uid://c0vdt3hqe1ioa" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_idle.png" id="3_ec114"]
-[ext_resource type="Texture2D" uid="uid://ywpnfeywd3i4" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_walk.png" id="4_isfgp"]
+[ext_resource type="Texture2D" uid="uid://d0i3erwhd2hdh" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_attack.png" id="1_hbyn4"]
+[ext_resource type="Texture2D" uid="uid://cuk76wl2iwdi3" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_defeated.png" id="2_vprr2"]
+[ext_resource type="Texture2D" uid="uid://c0vdt3hqe1ioa" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_idle.png" id="3_ec114"]
+[ext_resource type="Texture2D" uid="uid://ywpnfeywd3i4" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_walk.png" id="4_isfgp"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_mind4"]
 atlas = ExtResource("1_hbyn4")

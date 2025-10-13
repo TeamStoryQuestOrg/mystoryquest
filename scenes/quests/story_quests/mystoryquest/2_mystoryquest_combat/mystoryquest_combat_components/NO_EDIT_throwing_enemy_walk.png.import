@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://d0i3erwhd2hdh"
-path="res://.godot/imported/NO_EDIT_throwing_enemy_attack.png-2c5c36b8d1e4ab90815980727ebd20d1.ctex"
+uid="uid://ywpnfeywd3i4"
+path="res://.godot/imported/NO_EDIT_throwing_enemy_walk.png-e17df9ac82e91d62f357ad20d8789cc9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_attack.png"
-dest_files=["res://.godot/imported/NO_EDIT_throwing_enemy_attack.png-2c5c36b8d1e4ab90815980727ebd20d1.ctex"]
+source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_walk.png"
+dest_files=["res://.godot/imported/NO_EDIT_throwing_enemy_walk.png-e17df9ac82e91d62f357ad20d8789cc9.ctex"]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_resource type="SpriteFrames" load_steps=3 format=3 uid="uid://rw2c3kok51jh"]
 
-[ext_resource type="Texture2D" uid="uid://djhydwavyc1i8" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_projectile.png" id="1_q003s"]
+[ext_resource type="Texture2D" uid="uid://djhydwavyc1i8" path="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_projectile.png" id="1_q003s"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_a6ony"]
 atlas = ExtResource("1_q003s")

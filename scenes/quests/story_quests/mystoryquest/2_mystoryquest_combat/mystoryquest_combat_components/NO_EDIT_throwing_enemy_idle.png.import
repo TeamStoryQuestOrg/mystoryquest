@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cuk76wl2iwdi3"
-path="res://.godot/imported/NO_EDIT_throwing_enemy_defeated.png-7e77ef743ebf6709a7fda81f73492efd.ctex"
+uid="uid://c0vdt3hqe1ioa"
+path="res://.godot/imported/NO_EDIT_throwing_enemy_idle.png-b82c1efd06cee8c281cebf0aa53e3754.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_throwing_enemy_defeated.png"
-dest_files=["res://.godot/imported/NO_EDIT_throwing_enemy_defeated.png-7e77ef743ebf6709a7fda81f73492efd.ctex"]
+source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/mystoryquest_combat_components/NO_EDIT_throwing_enemy_idle.png"
+dest_files=["res://.godot/imported/NO_EDIT_throwing_enemy_idle.png-b82c1efd06cee8c281cebf0aa53e3754.ctex"]
 
 [params]
 
