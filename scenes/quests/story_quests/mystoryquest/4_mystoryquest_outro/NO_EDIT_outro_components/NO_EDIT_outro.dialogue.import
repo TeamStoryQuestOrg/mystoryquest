@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://ckxc3fxp3ewdo"
+path="res://.godot/imported/NO_EDIT_outro.dialogue-b2c3e756b9e54862fa91b1553961407a.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/4_mystoryquest_outro/NO_EDIT_outro_components/NO_EDIT_outro.dialogue"
+dest_files=["res://.godot/imported/NO_EDIT_outro.dialogue-b2c3e756b9e54862fa91b1553961407a.tres"]
+
+[params]
+
+defaults=true

@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://x0hcravw87qv"
+path="res://.godot/imported/NO_EDIT_intro.dialogue-0f47257ce86e3dfe45231a0b392d7244.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/0_mystoryquest_intro/mystoryquest_intro_components/NO_EDIT_intro.dialogue"
+dest_files=["res://.godot/imported/NO_EDIT_intro.dialogue-0f47257ce86e3dfe45231a0b392d7244.tres"]
+
+[params]
+
+defaults=true

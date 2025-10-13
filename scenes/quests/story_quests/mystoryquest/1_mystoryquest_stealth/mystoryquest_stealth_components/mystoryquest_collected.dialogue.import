@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://grn48epty761"
+path="res://.godot/imported/mystoryquest_collected.dialogue-938f5fe72c405c20799d64b7bcdc6683.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/1_mystoryquest_stealth/mystoryquest_stealth_components/mystoryquest_collected.dialogue"
+dest_files=["res://.godot/imported/mystoryquest_collected.dialogue-938f5fe72c405c20799d64b7bcdc6683.tres"]
+
+[params]
+
+defaults=true

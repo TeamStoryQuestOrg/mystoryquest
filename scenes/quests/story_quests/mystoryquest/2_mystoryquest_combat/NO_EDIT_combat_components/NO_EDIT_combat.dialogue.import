@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://l15kjxwj014n"
+path="res://.godot/imported/NO_EDIT_combat.dialogue-24d3bc6fae71a03d78e60fbc2c1e006f.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/2_mystoryquest_combat/NO_EDIT_combat_components/NO_EDIT_combat.dialogue"
+dest_files=["res://.godot/imported/NO_EDIT_combat.dialogue-24d3bc6fae71a03d78e60fbc2c1e006f.tres"]
+
+[params]
+
+defaults=true
