@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://gi0h6d52aqpg"
+path="res://.godot/imported/mystoryquest_checkpoint.dialogue-cb8803d5a679ddb631b5c1bd204c4fef.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/1_mystoryquest_stealth/mystoryquest_stealth_components/mystoryquest_checkpoint.dialogue"
+dest_files=["res://.godot/imported/mystoryquest_checkpoint.dialogue-cb8803d5a679ddb631b5c1bd204c4fef.tres"]
+
+[params]
+
+defaults=true

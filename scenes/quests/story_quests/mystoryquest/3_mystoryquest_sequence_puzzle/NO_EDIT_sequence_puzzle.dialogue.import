@@ -1,0 +1,16 @@
+[remap]
+
+importer="dialogue_manager"
+importer_version=15
+type="Resource"
+uid="uid://17ao8w38ndgm"
+path="res://.godot/imported/NO_EDIT_sequence_puzzle.dialogue-5c7f69adaf22dd8fdd06f2079bcf9c80.tres"
+
+[deps]
+
+source_file="res://scenes/quests/story_quests/mystoryquest/3_mystoryquest_sequence_puzzle/NO_EDIT_sequence_puzzle.dialogue"
+dest_files=["res://.godot/imported/NO_EDIT_sequence_puzzle.dialogue-5c7f69adaf22dd8fdd06f2079bcf9c80.tres"]
+
+[params]
+
+defaults=true
