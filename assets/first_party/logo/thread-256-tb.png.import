@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dn1xlyoch27n4"
-path="res://.godot/imported/NO_EDIT_elevation_tiles.png-c4b3579e35378c5663f6b11f0b2bc1d2.ctex"
+uid="uid://dhwqkdin6refx"
+path="res://.godot/imported/thread-256-tb.png-45c389cce7f95fd8e8b70d553db68312.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://scenes/quests/story_quests/NO_EDIT/NO_EDIT_tileset/NO_EDIT_elevation_tiles.png"
-dest_files=["res://.godot/imported/NO_EDIT_elevation_tiles.png-c4b3579e35378c5663f6b11f0b2bc1d2.ctex"]
+source_file="res://assets/first_party/logo/thread-256-tb.png"
+dest_files=["res://.godot/imported/thread-256-tb.png-45c389cce7f95fd8e8b70d553db68312.ctex"]
 
 [params]
 

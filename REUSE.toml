@@ -23,6 +23,8 @@ path = [
 	"scenes/*.tscn",
 	"scenes/**/*.tscn",
 	"scenes/**/*.tres",
+	"tiles/**/*.tscn",
+	"tiles/**/*.tres",
 	# .import files are largely machine-generated but developers can tweak their contents
 	"**/*.import",
 	"default_bus_layout.tres",
@@ -49,11 +51,6 @@ SPDX-FileCopyrightText = "2022-present Nathan Hoad"
 SPDX-License-Identifier = "MIT"
 
 [[annotations]]
-path = "assets/third_party/xylophone-sampler-pack/*.ogg"
-SPDX-FileCopyrightText = "2013 juancamiloorjuela"
-SPDX-License-Identifier = "CC0-1.0"
-
-[[annotations]]
 path = [
 	"assets/third_party/tiny-swords/**/*.png",
 	"assets/third_party/tiny-swords/**/*.aseprite",
@@ -78,9 +75,6 @@ path = [
 	"assets/first_party/**/*.png",
 	"assets/first_party/**/*.svg",
 	"assets/first_party/**/*.wav",
-	"icon-256.png",
-	"icon.aseprite",
-	"icon.png",
 	"scenes/**/*.aseprite",
 	"scenes/**/*.mp3",
 	"scenes/**/*.ogg",

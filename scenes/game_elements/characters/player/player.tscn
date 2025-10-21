@@ -506,6 +506,7 @@ _data = {
 [node name="Player" type="CharacterBody2D" groups=["player"]]
 collision_mask = 531
 motion_mode = 1
+wall_min_slide_angle = 0.017453292
 script = ExtResource("1_g2els")
 
 [node name="HitBox" type="Area2D" parent="."]
@@ -615,6 +616,8 @@ script = ExtResource("11_nrnyj")
 
 [node name="HookControl" parent="PlayerHook" instance=ExtResource("13_ecbbk")]
 state = 1
+
+[node name="HookEnding" type="Marker2D" parent="PlayerHook"]
 
 [node name="LightOccluder2D" type="LightOccluder2D" parent="."]
 visible = false
